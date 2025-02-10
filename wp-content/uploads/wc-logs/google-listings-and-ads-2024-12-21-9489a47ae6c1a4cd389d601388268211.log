@@ -1,0 +1,2 @@
+2024-12-21T11:44:30+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\Google\Connection::get_status cURL error 6: Could not resolve host: api.woocommerce.com (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://api.woocommerce.com/google/connection/google-mc
+2024-12-21T11:44:30+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Notes\NoteInitializer::add_notes Error retrieving status

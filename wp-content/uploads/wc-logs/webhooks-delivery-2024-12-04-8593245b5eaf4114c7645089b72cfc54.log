@@ -1,0 +1,672 @@
+2024-12-04T15:42:51+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 1fdf2bff8ead88bc99aa3152a6d8ac5d
+            [Date] => Dec 4, 2024 @ 15:42
+            [URL] => https://newplatform.cjdropshipping.com/platform-notify/wooCommerce/2410161435120665600/notify
+            [Duration] => 2.75304
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.1 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.libaascreation.com/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => rV8NGLdblfpdNOj9tW7gdNuQWI4Yfyh+d/sIgNr0djo=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 1fdf2bff8ead88bc99aa3152a6d8ac5d
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 04 Dec 2024 15:42:50 GMT
+                                    [content-type] => application/json
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding
+                                            [1] => Origin
+                                            [2] => Access-Control-Request-Method
+                                            [3] => Access-Control-Request-Headers
+                                        )
+
+                                    [content-encoding] => br
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-12-04T15:42:51+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 63d23929c49ce6eb6870d5ad0b4839c8
+            [Date] => Dec 4, 2024 @ 15:42
+            [URL] => https://newplatform.cjdropshipping.com/platform-notify/wooCommerce/2410161435120665600/notify
+            [Duration] => 0.63466
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.1 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.libaascreation.com/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => IcwE6XDVmvJYAnXBAyijQ4mFoaybL/MmAOsBtqcOqYw=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 63d23929c49ce6eb6870d5ad0b4839c8
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 04 Dec 2024 15:42:51 GMT
+                                    [content-type] => application/json
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding
+                                            [1] => Origin
+                                            [2] => Access-Control-Request-Method
+                                            [3] => Access-Control-Request-Headers
+                                        )
+
+                                    [content-encoding] => br
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-12-04T15:42:52+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 63d23929c49ce6eb6870d5ad0b4839c8
+            [Date] => Dec 4, 2024 @ 15:42
+            [URL] => https://newplatform.cjdropshipping.com/platform-notify/wooCommerce/2410161435120665600/notify
+            [Duration] => 0.69706
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.1 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.libaascreation.com/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => KEHpVZeQG9BtlmcMU+9z053MQmIirF9DpmsT6uM0juI=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 63d23929c49ce6eb6870d5ad0b4839c8
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 04 Dec 2024 15:42:52 GMT
+                                    [content-type] => application/json
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding
+                                            [1] => Origin
+                                            [2] => Access-Control-Request-Method
+                                            [3] => Access-Control-Request-Headers
+                                        )
+
+                                    [content-encoding] => br
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-12-04T15:42:53+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 0daf2f2f8db27ac52d3a084ebf42ec84
+            [Date] => Dec 4, 2024 @ 15:42
+            [URL] => https://newplatform.cjdropshipping.com/platform-notify/wooCommerce/2410161435120665600/notify
+            [Duration] => 0.65925
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.1 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.libaascreation.com/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => KvvTxD+IP3RkG6NkxrF1J0s6dctYaJyKrJ2RkMZJB2U=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 0daf2f2f8db27ac52d3a084ebf42ec84
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 04 Dec 2024 15:42:52 GMT
+                                    [content-type] => application/json
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding
+                                            [1] => Origin
+                                            [2] => Access-Control-Request-Method
+                                            [3] => Access-Control-Request-Headers
+                                        )
+
+                                    [content-encoding] => br
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-12-04T15:42:53+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 7bd9dcce8f6ebe5b9f8d6badcd4d622f
+            [Date] => Dec 4, 2024 @ 15:42
+            [URL] => https://newplatform.cjdropshipping.com/platform-notify/wooCommerce/2410161435120665600/notify
+            [Duration] => 0.65411
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.1 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.libaascreation.com/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => GU5XjGu2qDoePxaOZK0lG4ptTjt4ma2DuBUj3XNjjmY=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 7bd9dcce8f6ebe5b9f8d6badcd4d622f
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 04 Dec 2024 15:42:53 GMT
+                                    [content-type] => application/json
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding
+                                            [1] => Origin
+                                            [2] => Access-Control-Request-Method
+                                            [3] => Access-Control-Request-Headers
+                                        )
+
+                                    [content-encoding] => br
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-12-04T15:42:54+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 7bd9dcce8f6ebe5b9f8d6badcd4d622f
+            [Date] => Dec 4, 2024 @ 15:42
+            [URL] => https://newplatform.cjdropshipping.com/platform-notify/wooCommerce/2410161435120665600/notify
+            [Duration] => 0.64889
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.1 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.libaascreation.com/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => bLkWZoR4l6Z9b3s/0YCaPXVBqoM/MMlbkZcDkQRkdI8=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 7bd9dcce8f6ebe5b9f8d6badcd4d622f
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 04 Dec 2024 15:42:54 GMT
+                                    [content-type] => application/json
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding
+                                            [1] => Origin
+                                            [2] => Access-Control-Request-Method
+                                            [3] => Access-Control-Request-Headers
+                                        )
+
+                                    [content-encoding] => br
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-12-04T15:42:55+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c3465e69f1be58922e1b1bf02fe5afde
+            [Date] => Dec 4, 2024 @ 15:42
+            [URL] => https://newplatform.cjdropshipping.com/platform-notify/wooCommerce/2410161435120665600/notify
+            [Duration] => 0.66348
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.1 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.libaascreation.com/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => AXbXGwhfWwKwV/M+RMcRxWBt0pCjB1oXarfVXV7GqZo=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => c3465e69f1be58922e1b1bf02fe5afde
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 04 Dec 2024 15:42:54 GMT
+                                    [content-type] => application/json
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding
+                                            [1] => Origin
+                                            [2] => Access-Control-Request-Method
+                                            [3] => Access-Control-Request-Headers
+                                        )
+
+                                    [content-encoding] => br
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-12-04T15:42:55+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 155d47303fea2e112584f24f0a4f79f3
+            [Date] => Dec 4, 2024 @ 15:42
+            [URL] => https://newplatform.cjdropshipping.com/platform-notify/wooCommerce/2410161435120665600/notify
+            [Duration] => 0.68687
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.1 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.libaascreation.com/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => qxk83FyXkFaxOSQPPCLGOGwJIBLyKXXf+UsP1UzAgxg=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 155d47303fea2e112584f24f0a4f79f3
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 04 Dec 2024 15:42:55 GMT
+                                    [content-type] => application/json
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding
+                                            [1] => Origin
+                                            [2] => Access-Control-Request-Method
+                                            [3] => Access-Control-Request-Headers
+                                        )
+
+                                    [content-encoding] => br
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-12-04T15:42:56+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 155d47303fea2e112584f24f0a4f79f3
+            [Date] => Dec 4, 2024 @ 15:42
+            [URL] => https://newplatform.cjdropshipping.com/platform-notify/wooCommerce/2410161435120665600/notify
+            [Duration] => 0.65524
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.1 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.libaascreation.com/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => N8n2NV6OkEc8lnYtT5KtcS25ILVvVdpZHYrq3y2QwmA=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 155d47303fea2e112584f24f0a4f79f3
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 04 Dec 2024 15:42:56 GMT
+                                    [content-type] => application/json
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding
+                                            [1] => Origin
+                                            [2] => Access-Control-Request-Method
+                                            [3] => Access-Control-Request-Headers
+                                        )
+
+                                    [content-encoding] => br
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-12-04T15:42:57+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 77258932d811ab7c75b995ff3541e015
+            [Date] => Dec 4, 2024 @ 15:42
+            [URL] => https://newplatform.cjdropshipping.com/platform-notify/wooCommerce/2410161435120665600/notify
+            [Duration] => 0.63271
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.1 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.libaascreation.com/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => CrkInZpCRbXrMF7H796SfNkFWEYsX0CPyCoh59Xjqe4=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 77258932d811ab7c75b995ff3541e015
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 04 Dec 2024 15:42:56 GMT
+                                    [content-type] => application/json
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding
+                                            [1] => Origin
+                                            [2] => Access-Control-Request-Method
+                                            [3] => Access-Control-Request-Headers
+                                        )
+
+                                    [content-encoding] => br
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-12-04T15:43:44+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 7347bd096e71b9a818cdff64782d637e
+            [Date] => Dec 4, 2024 @ 15:43
+            [URL] => https://newplatform.cjdropshipping.com/platform-notify/wooCommerce/2410161435120665600/notify
+            [Duration] => 1.80196
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.1 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.libaascreation.com/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => JbZS1cu18Qny1w/wSyjESwduoBM+c9LrziUHoDvnxPs=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => 7347bd096e71b9a818cdff64782d637e
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 04 Dec 2024 15:43:44 GMT
+                                    [content-type] => application/json
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding
+                                            [1] => Origin
+                                            [2] => Access-Control-Request-Method
+                                            [3] => Access-Control-Request-Headers
+                                        )
+
+                                    [content-encoding] => br
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2024-12-04T15:43:45+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => f2b9aad7cafd9d3f2c3e5a80bd81f5e9
+            [Date] => Dec 4, 2024 @ 15:43
+            [URL] => https://newplatform.cjdropshipping.com/platform-notify/wooCommerce/2410161435120665600/notify
+            [Duration] => 0.63181
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.4.1 Hookshot (WordPress/6.7.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://www.libaascreation.com/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => K3/XJzfJBjuThMB4kkdElCZC3SNzuUJSJfGsH3kOQW0=
+                            [X-WC-Webhook-ID] => 5
+                            [X-WC-Webhook-Delivery-ID] => f2b9aad7cafd9d3f2c3e5a80bd81f5e9
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 04 Dec 2024 15:43:45 GMT
+                                    [content-type] => application/json
+                                    [vary] => Array
+                                        (
+                                            [0] => Accept-Encoding
+                                            [1] => Origin
+                                            [2] => Access-Control-Request-Method
+                                            [3] => Access-Control-Request-Headers
+                                        )
+
+                                    [content-encoding] => br
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
